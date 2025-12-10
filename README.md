@@ -28,27 +28,27 @@ LinkedIn: [https://www.linkedin.com/in/adityasingh  ](https://www.linkedin.com/i
 ### 🔹 AI Stock Market Analysis System
 Full stack analytics app with real time charts, personalized watchlists, and OpenAI powered investment insights.  
 Tech stack: React, TypeScript, Node.js, PostgreSQL, Python Flask, OpenAI API  
-**Repo:** link_here
+
 
 ---
 
 ### 🔹 Staffing Portal with LLM Summarization
 Scalable staffing dashboard supporting 24K records, Redis caching, and semantic search.  
 Tech stack: React, Node.js, Java Spring Boot, AWS, Redis, PostgreSQL  
-**Repo:** link_here
+
 
 ---
 
 ### 🔹 Chest Disease Detection using X Rays
 Deep learning system using VGG16 and class activation mapping to detect chest diseases with interpretable heatmaps.  
 Tech stack: Python, TensorFlow, CNN, Flask  
-**Repo:** link_here
+
 
 ---
 
 ### 🔹 Take a Break Web Game  
 Interactive browser game developed for workplace wellness using HTML5, CSS, and JavaScript.  
-**Repo:** link_here
+
 
 ---
 
